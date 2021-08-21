@@ -1,5 +1,5 @@
 <template>
-  <png src="birdie.png" viewBox="0 0 327.45 418.21" >
+  <svg src="https://www.svgrepo.com/show/231/eagle.svg" viewBox="0 0 327.45 418.21" >
     <defs>
       <style>.cls-1{fill:#212120;}.cls-2{fill:#3d3d3d;}.cls-3{fill:#a1bace;}.cls-4{fill:#fbe33b;}</style>
     </defs>
@@ -21,7 +21,7 @@
       <path class="cls-3" d="M149.3,146.29H131.44a9.94,9.94,0,0,0-9.92,9.91V165a9.05,9.05,0,0,0,9,9H149.3a7.94,7.94,0,0,0,7.93-7.94V154.22A7.93,7.93,0,0,0,149.3,146.29Z" transform="translate(-7.41 -10.5)"/>
       <path class="cls-3" d="M245.64,146.29H177.08a7.93,7.93,0,0,0-7.94,7.93v11.91a7.94,7.94,0,0,0,7.94,7.94h67.56a9.89,9.89,0,0,0,10-9.29l.47-8.57A9.77,9.77,0,0,0,245.64,146.29Z" transform="translate(-7.41 -10.5)"/>
     </g>
-  </png>
+  </svg>
 </template>
 <style>
 .NuxtLogo {
