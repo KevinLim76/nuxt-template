@@ -1,5 +1,5 @@
 <template>
-  <png src="https://www.pikpng.com/pngl/m/403-4036753_free-svg-cut-files-svg-files-for-cricut.png" viewBox="0 0 327.45 418.21" >
+  <img src="/flock.png" viewBox="0 0 327.45 418.21" >
     <defs>
       <style>.cls-1{fill:#212120;}.cls-2{fill:#3d3d3d;}.cls-3{fill:#a1bace;}.cls-4{fill:#fbe33b;}</style>
     </defs>
